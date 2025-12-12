@@ -1,0 +1,35 @@
+
+# 忽略构建不需要的目录
+dist/
+run/
+logs/
+typings/
+scripts/
+test/
+xin/
+public/
+data/
+app/
+plugins/
+resource/
+package.json
+README.md
+
+# 忽略 Git 和本地配置文件
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+package-lock.json
+jsconfig.json
+**/.DS_Store
+
+# 其他常见本地文件
+*.log
+.env
+.env.*
+.idea/
+.vscode/
+.history/
+readme

@@ -1,0 +1,26 @@
+{
+  "short_name": "XinServer",
+  "name": "开箱即用的零代码后端服务",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./resource/system/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./resource/system/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./resource/system/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

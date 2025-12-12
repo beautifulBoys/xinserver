@@ -1,0 +1,19 @@
+{
+  "token_expireTime": "30d",
+  "token_secret": "GYgBsWglP5Hye4ZpRiLd",
+  "aes_key": "E9Ev2sP44Cm7fw58zPyflqLltn3bvNgPoxtfLqa408E=",
+  "aes_iv": "dygBs9bbc1xUlwvZgq+KfA==",
+  "project_id": "691ae88eab835d6af7ac3827",
+  "centerServerURL": "https://xingweb.com/server",
+  "system_type": "single",
+  "configs": {
+  },
+  "datas": {
+    "defaultUserRoles": {
+      "account": [],
+      "smscode": [],
+      "emailcode": [],
+      "wx_openid": []
+    }
+  }
+}
